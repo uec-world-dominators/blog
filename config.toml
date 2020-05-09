@@ -1,4 +1,4 @@
-baseurl = "https://uecwd.github.io"
+baseurl = "https://shosatojp.github.io/wd-blog/public/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "UECWD Blog"
